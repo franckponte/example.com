@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mi Site example.com</title>
+    <link>http://localhost:1313/en/posts/</link>
+    <description>Recent content in Posts on Mi Site example.com</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Jun 2025 14:18:11 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenidos a Hugo</title>
+      <link>http://localhost:1313/en/posts/bienvenidos-a-hugo/</link>
+      <pubDate>Mon, 02 Jun 2025 14:18:11 -0500</pubDate>
+      <guid>http://localhost:1313/en/posts/bienvenidos-a-hugo/</guid>
+      <description>&lt;p&gt;Bienvenidos a primer Hugo&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Primer Post</title>
+      <link>http://localhost:1313/en/posts/primer-post/</link>
+      <pubDate>Mon, 02 Jun 2025 14:17:08 -0500</pubDate>
+      <guid>http://localhost:1313/en/posts/primer-post/</guid>
+      <description>&lt;p&gt;mi primer post!!!!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

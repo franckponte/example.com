@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mi Site example.com</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Mi Site example.com</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Jun 2025 14:18:11 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenidos a Hugo</title>
+      <link>http://localhost:1313/posts/bienvenidos-a-hugo/</link>
+      <pubDate>Mon, 02 Jun 2025 14:18:11 -0500</pubDate>
+      <guid>http://localhost:1313/posts/bienvenidos-a-hugo/</guid>
+      <description>&lt;p&gt;Bienvenidos a primer Hugo&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Primer Post</title>
+      <link>http://localhost:1313/posts/primer-post/</link>
+      <pubDate>Mon, 02 Jun 2025 14:17:08 -0500</pubDate>
+      <guid>http://localhost:1313/posts/primer-post/</guid>
+      <description>&lt;p&gt;mi primer post!!!!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contacto</title>
+      <link>http://localhost:1313/contacto/</link>
+      <pubDate>Sun, 01 Jun 2025 23:38:59 -0500</pubDate>
+      <guid>http://localhost:1313/contacto/</guid>
+      <description>&lt;p&gt;Instalar Hugo&#xA;Instale Hugo en macOS, Windows, Linux, FreeBSD y en cualquier máquina donde pueda ejecutarse la cadena de herramientas del compilador Go.&#xA;Se habla mucho de que &amp;ldquo;Hugo está escrito en Go&amp;rdquo;, pero no necesitas instalar Go para disfrutar de Hugo. ¡Basta con descargar un binario precompilado!&lt;/p&gt;&#xA;&lt;p&gt;-prueba&lt;/p&gt;&#xA;&lt;p&gt;-prueba&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
